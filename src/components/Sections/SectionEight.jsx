@@ -54,7 +54,7 @@ export default function SectionEight() {
         </Row>
       </Container> */}
       {/* SVG separator */}
-      <div className="separator separator-bottom separator-skew zindex-100">
+      <div className="separator separator-bottom separator-skew zindex-100" style={{ marginBottom: '-1px' }}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           preserveAspectRatio="none"
